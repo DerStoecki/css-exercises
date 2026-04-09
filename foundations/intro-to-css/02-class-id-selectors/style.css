@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+.odd {
+    background-color: lightpink;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+/*Testing two different things here but ik id shouldn't be used here*/
+/*#cooler {
+    font-size: 24px;
+}*/
+.cooler {
+    text-align: center;
+}
+#numberTwoDiv {
+    color: blue;
+    font-size: 36px;
+}
+.size24 {
+    font-size:24px;
+}
+
+#NumberFourDiv {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif';
+}
